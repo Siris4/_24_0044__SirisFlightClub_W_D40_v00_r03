@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="789aad85-6777-4721-893c-7bc2acf090bc" name="Changes" comment="My program asks for a user's First Name, Last Name, and email to be added to a Google sheet as a contact profile to be signed up for SirisFlightClub" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2cSzIyebqpL5sqMz1k8fua5vvET" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guber\Desktop\CoDex\Python\GitHub-Python-Files\_24_0044__Day40_Flight_Club_Customer_Emails_Capstone_Proj_Part2__240215\__P1_Project_Name_NWY_D##_v##_r##\_Gen Plygrd\Venv\_v01s\r00-r09\v01_r01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main_W_D40_v01_r03">
+    <configuration name="FC D40_v01_R01" type="PythonConfigurationType" factoryName="Python">
+      <module name="v01_r01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="SHEETY_UPDATE_ENDPOINT" value="https://api.sheety.co/def1d491a308d71f282a58a606026fea/sirisFlightDeals/prices" />
+        <env name="SHEETY_BEARER_TOKEN" value="i7dc6fbs7y6giygwfaggbrah" />
+        <env name="TEQUILA_API_KEY" value="uEWhccv46UM5TmZ_X-yy9YKcvpCqHfgi" />
+        <env name="ACCOUNT_SID" value="ACd6ea12f9116dc1d7590c90fabc3c429b" />
+        <env name="AUTH_TOKEN" value="941d0ce0c6fde97c58c2fa6f6e07a666" />
+        <env name="FROM_YOUR_VIRTUAL_TWILIO_PHONE_NUMBER" value="+18888462616" />
+        <env name="TO_RECIPIENT_PHONE_NUMBER" value="+17654189611" />
+        <env name="USERS_POST_ENDPOINT" value="https://api.sheety.co/4232363af90be4c1fedb66886d69013a/sirisFlightDeals/users" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\guber\AppData\Local\Microsoft\WindowsApps\python3.9.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../v01_r01/__24_0044_Flight_Club_Cstmr_Aqustn_W_D40_v01_r01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flight_search_W_D40_v01_r03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="v01_r01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flight_search_W_D40_v01_r03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_W_D40_v01_r03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="v01_r01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="SHEETY_UPDATE_ENDPOINT" value="https://api.sheety.co/a9739dc224ff3c4a75291e3fe21ec8e2/sirisFlightDeals/prices" />
+        <env name="SHEETY_BEARER_TOKEN" value="i7dc6fbs7y6giygwfaggbrah" />
+        <env name="TEQUILA_API_KEY" value="uEWhccv46UM5TmZ_X-yy9YKcvpCqHfgi" />
+        <env name="ACCOUNT_SID" value="ACd6ea12f9116dc1d7590c90fabc3c429b" />
+        <env name="AUTH_TOKEN" value="941d0ce0c6fde97c58c2fa6f6e07a666" />
+        <env name="FROM_YOUR_VIRTUAL_TWILIO_PHONE_NUMBER" value="+18888462616" />
+        <env name="TO_RECIPIENT_PHONE_NUMBER" value="+17654189611" />
+        <env name="USERS_POST_ENDPOINT" value="https://api.sheety.co/a9739dc224ff3c4a75291e3fe21ec8e2/sirisFlightDeals/users" />
+        <env name="SHEETY_PRICES_URL_ENDPOINT" value="https://api.sheety.co/a9739dc224ff3c4a75291e3fe21ec8e2/sirisFlightDeals/prices" />
+        <env name="my_from_email1" value="Test1.Omega1000@gmail.com" />
+        <env name="password" value="ubnsyiecdkkcfgon" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_W_D40_v01_r03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.FC D40_v01_R01" />
+      <item itemvalue="Python.flight_search_W_D40_v01_r03" />
+      <item itemvalue="Python.main_W_D40_v01_r03" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_W_D40_v01_r03" />
+        <item itemvalue="Python.flight_search_W_D40_v01_r03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="789aad85-6777-4721-893c-7bc2acf090bc" name="Changes" comment="" />
+      <created>1708119693133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708119693133</updated>
+    </task>
+    <task id="LOCAL-00001" summary="My program asks for a user's First Name, Last Name, and email to be added to a Google sheet as a contact profile to be signed up for SirisFlightClub">
+      <created>1708121316511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708121316511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My program asks for a user's First Name, Last Name, and email to be added to a Google sheet as a contact profile to be signed up for SirisFlightClub" />
+    <option name="LAST_COMMIT_MESSAGE" value="My program asks for a user's First Name, Last Name, and email to be added to a Google sheet as a contact profile to be signed up for SirisFlightClub" />
+  </component>
+</project>

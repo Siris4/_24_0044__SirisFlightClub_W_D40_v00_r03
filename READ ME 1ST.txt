@@ -1,0 +1,16 @@
+Done -Sheety limit has been reached needs refreshed (use that one as the base account)
+
+Done -Google Dev console will have to be reattached, Google Sheets API, Google Drive API enabled, 
+
+Done -New Sheety Endpoint to place in EnvVars
+
+(optional) -This program can have the SMS reactivated
+
+Done -Ensure that all the IATA Code get populated and filled in
+
+Done -Ensure that all prices get updated
+
+Done -Ensure that the Intro starts and only asks for 1 user before Continuing on with the flight scanning.
+
+#TODO: toggle this on or off, depending in what you want you want to receive
+                # notification_manager.send_an_sms_text(message=message)
